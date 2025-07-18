@@ -35,7 +35,6 @@
     .marque{
     font-size: 2rem;
     font-weight: bold;
-    margin-top: 1rem;
     border-bottom: 2px solid rgba(0, 0,0, 0.3);
     background:linear-gradient(200deg, rgba(22,125,55)0%, rgba(12,125,155)30%, rgba(42,15,95)80%) ;
     padding: 0.5rem;
